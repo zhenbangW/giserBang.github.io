@@ -10,6 +10,18 @@
  * Copyright 2011-2020 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+
+table{
+  margin-bottom: 5rem;
+}
+ 
+td{
+  width:400px;
+  height:50px;
+  text-align: left;
+}
+
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
