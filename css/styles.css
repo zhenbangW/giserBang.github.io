@@ -11,8 +11,12 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 
+.mb-3 b{
+  color: black;
+}
+
 .flex-grow-1 ul li{
-  width: 43rem;
+  width: 80%;
   margin-bottom: 1.3rem;
 }
 
